@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-h2,h4,h5{
+h1,h4,h5{
 	text-align:center;
 }
 body{
@@ -39,5 +39,9 @@ video , audio{
 	top:10px;
     left: 10px;
 	right:10px;
+	bottom:5px
 	
+}
+#man{
+	text-align:left;
 }
